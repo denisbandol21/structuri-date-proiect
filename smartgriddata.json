@@ -1,0 +1,26 @@
+{
+    "panouri": [
+        {
+            "id_panou": "1",
+            "locatie": "orhei",
+            "productie_curenta": 28.0
+        },
+        {
+            "id_panou": "5",
+            "locatie": "orhei",
+            "productie_curenta": 22.0
+        }
+    ],
+    "rapoarte": [
+        {
+            "id_raport": 34,
+            "consum_total": 16.0,
+            "status_retea": "Optim"
+        },
+        {
+            "id_raport": 67,
+            "consum_total": 18.0,
+            "status_retea": "Optim"
+        }
+    ]
+}
